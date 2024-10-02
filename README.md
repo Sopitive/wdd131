@@ -6,7 +6,7 @@ Hello and welcome to my project for WDD 131 - Dynamic Web Fundamentals! This pro
  
 You can view the live version of this project hosted on GitHub Pages by visiting the following link:
 
-[Visit my GitHub Pages site](https://Soptive.github.io/wdd131/)
+[Visit my GitHub Pages site](https://soptive.github.io/wdd131)
 
 ---
 
